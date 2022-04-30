@@ -1,3 +1,3 @@
 # road.blockhain
 
-it it mindmap to become a blockchain developer
+it it a mindmap to become a blockchain developer
